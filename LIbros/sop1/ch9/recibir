@@ -1,0 +1,3 @@
+#!/bin/bash
+#recepcion desde linux debian 5.01
+./receiveserial pepe.c /dev/ttyS0 9600 5 1 7 1 0

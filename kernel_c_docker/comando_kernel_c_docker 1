@@ -1,0 +1,9 @@
+Comando para ejecutar el kernel de C desde contenedor docker
+
+    docker run -p 8888:8888 brendanrius/jupyter-c-kernel
+    Copy the given URL containing the token, and browse to it. For instance:
+
+Copy/paste this URL into your browser when you connect for the first time,
+to login with a token:
+   http://localhost:8888/?token=66750c80bd0788f6ba15760aadz53beb9a9fb4cf8ac15ce8
+

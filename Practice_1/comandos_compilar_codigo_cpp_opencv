@@ -1,0 +1,5 @@
+Comando para compilar codigo de C++ o C desde consola con la libreria OPENCV
+g++ main.cpp -o output `pkg-config --cflags --libs opencv4`
+
+Comando para correr el programa
+./output

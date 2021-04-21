@@ -1,0 +1,7 @@
+//Comando para correr codigo C con phtread en unix
+gcc script1.c -o output -lpthread
+./output
+
+//Comando para correr codigo C++ con phtread en unix
+g++ script1.c -o output -pthread
+./output

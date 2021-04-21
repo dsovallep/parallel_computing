@@ -1,0 +1,3 @@
+#!/bin/bash
+#envio desde linux debian 5.01
+./sendserial serial.c /dev/ttyS0 9600 5 1 7 1 2
